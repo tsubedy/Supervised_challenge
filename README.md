@@ -18,10 +18,12 @@ The following procedure is adopted:
 
 #### Logistic Regression models:
 UnScaled Training Data Score : 0.6522988505747126
+
 Un Scaled Testing Data Score : 0.5108464483198639
 
 #### Randon Forest Classifier:
 Unscaled Training Score: 1.0
+
 Unscaled Testing Score : 0.638664398128456
 
 
@@ -29,11 +31,13 @@ Unscaled Testing Score : 0.638664398128456
 
 #### Logistic Regression models:
 Scaled Training Data Score  : 0.710919540229885
+
 Scaled Testing Data Score   : 0.7598894087622289
 
 #### Random Forest Classifier:
 
 Scaled Training Score  : 1.0
+
 Scaled Testing Score   : 0.6378136962994471
 
 
