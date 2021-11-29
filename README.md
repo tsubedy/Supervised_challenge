@@ -1,6 +1,6 @@
-Supervised_learning
+# Supervised_learning
 
-Overview:
+## Overview:
 
 In this project, Python is used to build and evaluate machine learning models to predict credit risk. 
 
@@ -12,44 +12,31 @@ The following procedure is adopted:
 
 
 
-Results:
+## Results:
 
-Unscaled data:
+### Unscaled data:
 
-Logistic Regression models:
-
+#### Logistic Regression models:
 UnScaled Training Data Score : 0.6522988505747126
-
 Un Scaled Testing Data Score : 0.5108464483198639
 
-Randon Forest Classifier:
-
+#### Randon Forest Classifier:
 Unscaled Training Score: 1.0
-
 Unscaled Testing Score : 0.638664398128456
 
 
-Scaled data:
+### Scaled data:
 
-Logistic Regression models:
-
+#### Logistic Regression models:
 Scaled Training Data Score  : 0.710919540229885
-
 Scaled Testing Data Score   : 0.7598894087622289
 
-Random Forest Classifier:
+#### Random Forest Classifier:
 
 Scaled Training Score  : 1.0
-
 Scaled Testing Score   : 0.6378136962994471
 
 
-
-
-Summary:
+## Summary:
 1. Looking at the model scores before scaling, random forests classifier model shows better score than the logistic regression model.  
 2. On the scaled data, the logistic regression model score improved much better compared to random forest classifier.
-
-
-
-        
